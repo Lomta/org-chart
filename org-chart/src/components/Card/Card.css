@@ -1,0 +1,21 @@
+.Card {
+    border-width: 2px;
+    border-color: aquamarine;
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+    width: 220px;
+    height: 300px;
+}
+
+.Card img{
+    width: 200px;
+    height: 150px;
+}
+
+.VerticalLine {
+    border-left: 2px solid white;
+    height: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
